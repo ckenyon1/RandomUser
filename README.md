@@ -1,5 +1,5 @@
 
-<kbd><img src="./FindPeople.png" /></kbd>
+<kbd><img src="./thumbnail_WhetherWeather.png" /></kbd>
 
 # FindPeople
 * Full Stack App bringing in random users from an outside API.
